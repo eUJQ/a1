@@ -23,15 +23,10 @@ dem Irak
 Syrien
 
 
-- Wie geht es Ihnen?
+# Wie geht es Ihnen?
 Mir geht es ...
 > Wie geht es = Wie geht's?
 
-
-
-
-- Sind Sie ...?
-Ja, das bin ich.
 
 
 
@@ -44,21 +39,21 @@ Ich spreche ...
 Ich spreche kein / nicht ...
 
 - Sprechen Sie Deutsch?
+- 
+> Ich spreche _noch_ nicht gut Deutsch.
 
-
-# ...?
-- Wer ist das?
+# Wer ist das?
 Das ist ...
 Das sind ...
 Mina
 
-- Was ist das?
+# Was ist das?
 Das ist ...
 ein Apfel
 
 
 
-# verheiratet
+# Familienstand
 - Sind Sie verheiratet?
 verwitwet
 geschieden
@@ -97,17 +92,6 @@ Ich bin ... (Jahre alt).
 
 
 
-
-# Buchstabieren
-- Können Sie das buchstabieren, bitte?
-...
-Ich buchstabiere ...
-
-> Buchstabieren Sie bitte!
-
-
-
-# verstehe!!
 Ich verstehe (das) nicht
 > Ich weiß nicht
 
@@ -121,10 +105,7 @@ Nordstraße 10, 22767 Hamburg.
 
 
 
-# tun?
-- Was kann ich für Sie tun?
-
-
+# Was kann ich für Sie tun?
 
 
 # Geburtsort?
@@ -133,12 +114,10 @@ Ich bin in ... geboren.
 
 
 
-
-# heißt ...
-- Wie heißt das auf Deutsch?
+# Wie heißt das auf Deutsch?
 Das ist ...
 
-- Wie schreibt man das?
+# Wie schreibt man das?
 M-A-U-S
 
 
@@ -167,19 +146,11 @@ Mein Name ist ..., aber alle sagen ...
 Ich schreibe eine E-Mail
 
 
-- Ist das ...?
-
-
-> Ich habe heute leider keine Zeit
-
-
-- Wo ist ...?
-mein Kuli
 
 Ich glaube ...
 
 
-- Was machen Sie?
+# Was machen Sie?
 Ich mache _jetzt_ einen Deutschkurs
 
 
@@ -187,7 +158,7 @@ Ich mache _jetzt_ einen Deutschkurs
 Ich lerne Deutsch.
 
 
-- Wo lernen Sie Deutsch?
+# Wo lernen Sie Deutsch?
 an der VHS (Volkshochschule)
 im Portal
 am Computer
@@ -196,33 +167,21 @@ am Computer
 > Ja, genau
 
 
-Wir haben immer viele Hausaufgaben.
-
-
-zu Hause sprechen wir immer Dari
-
-Markieren Sie!
-Klicken Sie an!
-Ergänzen Sie!
-
-
-
 Ich schreibe eine E-Mail an ...
 
 
 
-- Welche Tag ist heute?
+# Welche Tag ist heute?
 Heute ist ...
 
 
 
-- Wann beginnt ...?
+# Wann beginnt ...?
 der Deutschkurs
 
 
 
-Noch einmal, bitte
-
+# Noch einmal, bitte
 Buchstabieren Sie, bitte
 
 Langsam, bitte
@@ -236,8 +195,9 @@ buchstabieren
 erklären
 
 
-Am Telefon
 
+
+# Am Telefon
 - Ist ... da?
 Es tut mir leid. (er/sie) ist nicht da.
 
@@ -245,11 +205,11 @@ Es tut mir leid. (er/sie) ist nicht da.
 
 
 
-- Rauchen Sie?
+# Rauchen Sie?
 Nein, ich rauche nicht.
 
 
-> Ich spreche _noch_ nicht gut Deutsch.
+
 
 
 
@@ -257,21 +217,9 @@ schon wieder!
 
 
 
-Obst ist gesund.
-
-
-
 
 > Ja, gute Idee.
-
-- Was kochen wir heute?
-
 > Nein, leider nicht.
-
-
-
-
-
 
 
 
@@ -284,40 +232,42 @@ Probieren Sie mal.
 
 
 
+# zum Frühstück
 Ich esse ... zum **Frühtück**
 Ich esse zum **Frühstück** ...
-
 
 > Ich habe morgens keinen Hunger
 Ich habe einen Riesenhunger!
 
 Eine Portion Pommes (mit/ohne Ketchup)
 Einmal ..., bitte
-Ein Stück Apfelkuchen (mit Sahne), bitte
+Ein Stück ...
 
 > Ich möchte **nichts** trinken.
 
 
-- Wie schmeckt das?
+
+# Wie schmeckt das?
 Das schmeckt gut/lecker. (= Das is lecker)
 
 
-- Was ist das Problem?
+# Was ist das Problem?
 Die Suppe ist ... (salzig)
 Leider ist ... zu ... (salzig)
 
 Es tut mir leid. Ich bringe Ihnen eine neue.
 
 
+
+# Zahlen, bitte.
 **zahlen = bezahlen**
-Zahlen, bitte.
 Ich möchte _bitte_ zahlen.
 Ich möchte _gern_ zahlen.
-
 
 Ja, sofort. Das macht ...
 
 +, Stimmt so.
+
 
 
 
@@ -327,16 +277,15 @@ Gute Appetit!
 
 
 
-- Was steht da?
+# Was steht da?
 
-Der Käse riecht nicht so gut.
-Aber er schmeckt nicht so schlecht.
-
+Der Käse **riecht** nicht so gut.
 
 
 von ... bis ... Uhr ___
 
 
+# morgens ...
 Morgens stehe ich um ... auf
 Ich stehe sehr _früh_ auf.
 Ich schlafe morgens _meistens_ bis 8 Uhr.
@@ -351,18 +300,15 @@ am Abend -> abends
 **in der Nacht** -> nachts
 
 
-- Wie lange schläfst du?
+
+# Wie lange schläfst du?
 Ich schlafe sieben Stunden.
 
 
 Ich treffe Freunde.
-
 Ich räume das Zimmer auf.
-
 Ich bereite das Frühstück vor.
-
 Ich hole die Kinder ab.
-
 Er kauft nachmittags ein.
 
 
@@ -371,7 +317,7 @@ Ich bin **müde**.
 Ich sehe ein bisschen fern.
 
 
-- Was machen Sie gern?
+# Was machen Sie gern?
 Ich spiele gern am Computer.
 
 Volleyball, Fußball spielen
@@ -385,13 +331,7 @@ Yoga, Sport machen.
 
 
 
-
-
-
-
-
 # die Uhr
-
 - Wie spät ist es?
 Es ist ...
 - Wie viel Uhr ist es?
@@ -426,18 +366,19 @@ Ich esse/trinke nicht (so) gern ...
 
 > gern = gerne
 
-___
 
-- Was brauchen wir?
+
+# Was brauchen wir?
 Ich brauche Auberginen.
 
-- Wo kaufen wir ...?
+# Wo kaufen wir ...?
 den Reis
 
 auf dem Markt.
 im Supermarkt.
 
-___
+
+
 
 ## Auf dem Markt
 - Bitte schön?

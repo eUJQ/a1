@@ -3,6 +3,7 @@ süß
 salzig
 sauer
 scharf
+
 kalt
 heiß
 
@@ -27,6 +28,4 @@ falsch
 interessant
 kaputt
 nett
-
-
 müde

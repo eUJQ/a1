@@ -34,6 +34,7 @@ sprechen
 sprecht
 sprechen
 
+
 _haben_ + Akkusativ
 habe
 hast
@@ -41,6 +42,7 @@ hat
 haben
 habt
 haben
+
 
 _wohnen_
 wohne
