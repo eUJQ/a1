@@ -8,19 +8,18 @@ Ich heiße ...
 - Wie ist Ihr Name?
 Mein Name ist ...
 
-> Wie bitte?
-
 - Wer sind Sie?
 Ich bin ...
 
 
 
-# Land
+# Heimatland
 - Woher kommen Sie?
 Ich komme aus ...
 der Türkei
 dem Irak
 Syrien
+
 
 
 # Wie geht es Ihnen?
@@ -39,8 +38,10 @@ Ich spreche ...
 Ich spreche kein / nicht ...
 
 - Sprechen Sie Deutsch?
-- 
 > Ich spreche _noch_ nicht gut Deutsch.
+
+
+
 
 # Wer ist das?
 Das ist ...
@@ -78,10 +79,6 @@ in Deutschland
 Ich wohne ...
 in Berlin
 
-
-Ich lebe allein.
-
-
 zusammen != getrennt
 
 
@@ -92,10 +89,8 @@ Ich bin ... (Jahre alt).
 
 
 
-Ich verstehe (das) nicht
-> Ich weiß nicht
 
-Ich habe eine Frage
+
 
 
 
@@ -135,27 +130,21 @@ M-A-U-S
 
 
 
-Schönen Tag noch
-
-Mein Name ist ..., aber alle sagen ...
 
 
-
-
-
-Ich schreibe eine E-Mail
-
-
-
-Ich glaube ...
 
 
 # Was machen Sie?
 Ich mache _jetzt_ einen Deutschkurs
 
 
-- Was lernen Sie?
+
+
+
+# Was lernen Sie?
 Ich lerne Deutsch.
+
+
 
 
 # Wo lernen Sie Deutsch?
@@ -163,11 +152,6 @@ an der VHS (Volkshochschule)
 im Portal
 am Computer
 
-
-> Ja, genau
-
-
-Ich schreibe eine E-Mail an ...
 
 
 
@@ -205,22 +189,13 @@ Es tut mir leid. (er/sie) ist nicht da.
 
 
 
+
 # Rauchen Sie?
 Nein, ich rauche nicht.
 
 
 
-
-
-
-schon wieder!
-
-
-
-
-> Ja, gute Idee.
 > Nein, leider nicht.
-
 
 
 Probieren Sie mal.
@@ -229,6 +204,7 @@ Probieren Sie mal.
 ... kostet nichts.
 
 > Nein, danke. Heute nicht.
+
 
 
 
@@ -251,6 +227,7 @@ Ein Stück ...
 Das schmeckt gut/lecker. (= Das is lecker)
 
 
+
 # Was ist das Problem?
 Die Suppe ist ... (salzig)
 Leider ist ... zu ... (salzig)
@@ -271,18 +248,13 @@ Ja, sofort. Das macht ...
 
 
 
-Ich bin gespannt, wie das schmeckt.
-
-Gute Appetit!
+> Ich bin gespannt, wie das schmeckt.
+Der Käse **riecht** nicht so gut.
 
 
 
 # Was steht da?
 
-Der Käse **riecht** nicht so gut.
-
-
-von ... bis ... Uhr ___
 
 
 # morgens ...
@@ -301,20 +273,21 @@ am Abend -> abends
 
 
 
+
 # Wie lange schläfst du?
 Ich schlafe sieben Stunden.
-
+von ... bis ... Uhr ___
 
 Ich treffe Freunde.
 Ich räume das Zimmer auf.
 Ich bereite das Frühstück vor.
 Ich hole die Kinder ab.
 Er kauft nachmittags ein.
-
-
-Ich bin **müde**.
-
 Ich sehe ein bisschen fern.
+
+
+> Ich bin **müde**.
+
 
 
 # Was machen Sie gern?
@@ -371,6 +344,7 @@ Ich esse/trinke nicht (so) gern ...
 # Was brauchen wir?
 Ich brauche Auberginen.
 
+
 # Wo kaufen wir ...?
 den Reis
 
@@ -380,7 +354,7 @@ im Supermarkt.
 
 
 
-## Auf dem Markt
+# Auf dem Markt
 - Bitte schön?
 Ich hätte gern ...
 
@@ -396,13 +370,14 @@ Gut, ich nehme ... (ein Kilo)
 - Was darf es (noch) sein?
 Nein, danke. Das ist alles.
 
+
+
 > Das macht (zusammen) ...
 ___ Euro
 ___ Cent
 
 Hier, bitte schön.
 
-> ein schönes Wochenende
 
 ... ist im **Angebot** heute
 es
@@ -417,9 +392,53 @@ Ich brauche ...
 - Ist das alles?
 Ja, das ist alles. Danke.
 
-___
+
 Ich bin Vegetarier.
-Ich esse kein Schweinefleisch.
+> Ich esse kein Schweinefleisch.
+
+
+
+# ___
+- Schönen Tag noch
+- Schönen Abend noch
+- ein schönes Wochenende
+
+- Mein Name ist ..., aber alle sagen ...
+
+- Ich glaube ...
+
+- Ich lebe allein.
+
+- Ich schreibe eine E-Mail an ...
+
+- schon wieder!
+
+> Ja, gute Idee.
+
+> Wie bitte?
+
+> Gute Appetit!
+
+> Ja, genau
+
+- Ich verstehe (das) nicht
+> Ich weiß nicht
+
+- Ich habe eine Frage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
