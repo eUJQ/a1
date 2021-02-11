@@ -161,7 +161,12 @@ Heute ist ...
 
 
 # Wann beginnt ...?
+# Wann fängt ... an?
 der Deutschkurs
+
+# Um wie viel Uhr beginnt ...?
+
+
 
 
 
@@ -272,6 +277,12 @@ am Abend -> abends
 **in der Nacht** -> nachts
 
 
+am Montag -> montags
+am Mittwoch -> mittwochs
+am Freitag -> freitags
+
+
+
 
 
 # Wie lange schläfst du?
@@ -305,10 +316,10 @@ Yoga, Sport machen.
 
 
 # die Uhr
-- Wie spät ist es?
-Es ist ...
+- Wie spät ist es (jetzt[34~])?
 - Wie viel Uhr ist es?
 
+Es ist ...
 12:00      zwei
 02:30      **halb drei**
 02:45      Viertel vor drei
@@ -323,6 +334,64 @@ Es ist ...
 02:54      **kurz** vor drei
 10:26      kurz vor halb elf
 10:32      kurz nach halb elf
+15:50      zehn vor **vier**
+
+Uhr nachmittags / nachts , morgens / abends
+
+- formall
+...
+17:12      siebzehn Uhr zwölf
+14:31      vierzehn Uhr einunddreißig
+06:15      sechs Uhr  fünfzehn
+22:30      zweiundzwanzig Uhr dreißig
+18:58      achtzehn Uhr achtundfünfzig
+05:45      fünf Uhr fünfundvierzig
+00:20      **null** Uhr zwanzig
+
+
+um 18 Uhr
+am Montag
+
+
+Ich arbeite acht Stunden **pro** Tag.
+
+
+# von wann bis wann ...?
+
+# wann?
+um 8 Uhr.
+ab ...
+
+# wie lange?
+- Wie lange dauert der Deutschkurs?
+von ... bis ...
+
+- Wie lange ist die Pause?
+
+
+
+> **unter der Woche** = werktags = bis Montag bis Freitag
+
+
+
+
+
+# Wie oft kocht Simon?
+nie
+selten
+manchmal
+oft
+meistens
+immer
+
+
+zwei Mal **pro** Jahr
+
+
+ziemlich ...
+fast ...
+
+Ich sehe oft fern.
 
 
 
@@ -427,21 +496,58 @@ Ich bin Vegetarier.
 - Ich habe eine Frage
 
 
+- Ich gehe ins Kino
+
+- Ich mache das vielleicht.
+
+- keine Lust
+
+> Auf Wiedeehören
+
+
+# Kommst du mit?
+Ja, gern. Ich komme gern mit.
+> Da, habe ich leider keine Zeit.
+
+- zum Beispiel am Samstag?
+Schade! warum denn nicht?
 
 
 
 
+Freitags arbeite ich als Übersetzer.
+
+öffnet ...
+schließt ...
 
 
 
 
+# Wann haben Sie _samstags_ geöffnet?
+Von 9:00 bis 12:00 Uhr
+
+
+
+# Einen Termin machen
+- Ich möchte bitte einen Termin
+hätte gern
+
+- Geht es vielleicht morgen?
+
+das passt (gut)
+
+nein, morgen passt es nicht.
+
+- Haben Sie einen Termin am _Nachmittag_?
 
 
 
 
+# Hast du _Lust auf_ Grillen?
 
 
 
+Magdalena verbringt viel Zeit im Fitnessstudio.
 
 
 

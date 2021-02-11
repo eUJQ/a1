@@ -163,7 +163,7 @@ Sonntag
 vorgestern (war)
 gestern
 heute (ist)
-morgen
+morgen (tommorow)
 übermorgen
 
 **Der Tag**
@@ -350,6 +350,8 @@ kaputt
 nett
 müde
 
+früh -> früher
+spät
 
 ___
 
@@ -388,7 +390,6 @@ Tipp
 Wochenende
 Nachtrichten
 Zeitung
-früh
 Stunde
 die Umfrage
 **Sport**
@@ -407,11 +408,59 @@ nie
 meistens
 das Wartezimmer
 das Papier
-
-
-
-
-
-
-
-
+Nachmittagskurs
+Vormittagskurs
+Konzert
+Woche
+Kita
+Kindergarten
+Antwort
+Fragen
+Fußballspiel
+Überschriften
+Freizeit
+Freizeitspaß
+Schwimmbad
+täglich
+genug (Zeit)
+Sommer
+Winter
+Schwimmen
+das Baden
+Planschen
+warm
+der Urlaub / -e
+der Hamburger / -n
+die Temperatur / -en
+der Grad (30)
+das Öffnungszeiten
+Minute
+Sekunde
+Kino
+der Elternabend
+Film
+Nachbar
+Integrationskurs
+Unterricht
+Übersetzerin
+Theater
+geschlossen (Mi)
+Anmeldezeiten
+die Sprechstunde / -n
+die Sprechstundenzeiten
+geöffnet
+die Dame / -n
+der Herr / -n
+Café
+Geschäft
+Praxis
+Termin
+Fitnessstudio
+Tierheim
+der Blogger
+die Bloggerin
+das Hobby / -s
+musikalish
+begeisterter
+der Fußballfan / -s
+die Lieblingsmannschaft

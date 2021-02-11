@@ -215,3 +215,32 @@ _warten_
 
 
 
+_anfangen_
+
+
+_fahren_
+
+
+
+_Internet Surfen_
+
+
+_grillen_
+
+
+_übersetzen_
+
+_schließen_
+_öffnen_
+
+
+_laufen_
+
+
+_bescuchen_
+
+
+_verbringe_
+
+
+_kümmern_
